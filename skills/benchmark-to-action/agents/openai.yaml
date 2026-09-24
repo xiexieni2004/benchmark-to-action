@@ -1,0 +1,4 @@
+interface:
+  display_name: "benchmark-to-action"
+  short_description: "把商业对标拆成有证据、有边界、可执行和可验证的行动方案"
+  default_prompt: "Use $benchmark-to-action to analyze a benchmark I provide and turn its reusable mechanisms into a realistic action experiment."
